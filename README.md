@@ -8,15 +8,9 @@ Welcome to my GitHub profile! I'm **Ivan Ontiveros**, a passionate **Software En
 
 - 🚀 Building **personal projects** to refresh my skills with the latest tools and trends in web development.
 - 🤖 Exploring the integration of **ChatGPT and AI tools** into applications, experimenting with their practical uses, and identifying valuable solutions.
+- 🌐 Pursuing certifications in **AWS**, **Kubernetes**, and **cloud architecture** to broaden my technical expertise.
 - 📝 Blogging about my journey in software development, including lessons learned and best practices.
 - 👨‍🏫 Mentoring my brother as he starts his journey to becoming a Software Engineer.
-
----
-
-### 🌱 **What I'm Learning**
-
-- 🤖 Gaining insight into **AI tools** by digesting content, experimenting with different platforms, and finding innovative ways to use them in development.
-- 🌐 Pursuing certifications in **AWS**, **Kubernetes**, and **cloud architecture** to broaden my technical expertise.
 
 ---
 
